@@ -12,7 +12,7 @@
 # os.system(f'yt-dlp -o "{output_dir}/%(title)s.%(ext)s" {video_url}')
 
 # print("Download complete!")
-
+                                                           #for playlist
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 import os
