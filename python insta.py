@@ -1,7 +1,7 @@
 # from instabot import Bot
 
 # bot = Bot()
-# bot.login(username="fedup_02", password="instagrampassword??",use_cookie=False)
+# bot.login",use_cookie=False)
 
 
 # bot.follow("turk.elon.musk")
@@ -21,7 +21,7 @@
 # bot = Bot()
 
 # # Login
-# bot.login(username="fedup_02", password="instagrampassword??",use_cookie=False)
+# bot.login(",use_cookie=False)
 
 # # Example actions
 # # bot.upload_photo("photo.jpg", caption="Hello from Instabot!")
@@ -30,7 +30,7 @@
 from instagrapi import Client
 
 cl = Client()
-cl.login("fedup_02", "instagrampassword??")  # replace with your real password
+cl.login()  # replace with your real password
 
 username = "beingsalmankhan"
 
